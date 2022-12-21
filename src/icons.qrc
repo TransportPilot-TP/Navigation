@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/car_menu.ico</file>
+        <file>icons/arrow-158-32.ico</file>
+        <file>icons/fan-32.ico</file>
+        <file>icons/icons8-armchair-50(1).png</file>
+        <file>icons/note-32.ico</file>
+        <file>icons/clock-5-32.ico</file>
+        <file>icons/icons8-flash-on-50.png</file>
+        <file>icons/microphone-3-32.ico</file>
+    </qresource>
+</RCC>
